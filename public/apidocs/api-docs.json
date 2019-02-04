@@ -1,0 +1,8 @@
+{
+  "swagger": "2.0",
+  "basePath": "http://127.0.0.1:3000",
+  "apis": [
+
+  ],
+  "authorizations": null
+}
